@@ -1,7 +1,7 @@
 {
-    "name": "windy-plugin-template",
+    "name": "windy-plugin-navigraph-data",
     "version": "2.0.2",
-    "description": "Template for developing Windy Plugins",
+    "description": "Adds user navigraph data to Windy as a plugin",
     "main": "dist/plugin.min.js",
     "type": "module",
     "scripts": {
@@ -19,7 +19,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/windycom/windy-plugin-template.git"
+        "url": "git+https://github.com/The3dVehicleguy/windy-navigraph-overlay-plugin"
     },
     "keywords": [
         "windy",
@@ -29,7 +29,7 @@
     "author": "Windyty, S.E.",
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/windycom/windy-plugin-template/issues"
+        "url": "https://github.com/The3dVehicleguy/windy-navigraph-overlay-plugin/issues"
     },
     "homepage": "https://docs.windy-plugins.com/",
     "dependencies": {
